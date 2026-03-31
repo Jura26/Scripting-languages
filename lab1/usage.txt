@@ -1,0 +1,6 @@
+./zadatak1.sh
+./zadatak2.sh
+./zadatak3.sh ../test3/
+./zadatak4.sh ../Testovi/Slike/
+./zadatak5.sh . "*.sh"
+./zadatak6.sh ../Testovi/dir1 ../Testovi/dir2
