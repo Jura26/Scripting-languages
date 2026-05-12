@@ -10,11 +10,11 @@ while(<>){
     chomp;
     @words = split / /, $_;
     foreach $word (@words){
-        if (length($word) lt 4){
+        if (length($word) lt $n){
             next;
         }
-        if (length($word) gt 4){
-            if ($word =~ /(.{4}).*/){
+        if (length($word) gt $n){
+            if ($word =~ /(.{$n}).*/){
                 $word = $1;
             }
         }

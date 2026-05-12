@@ -1,0 +1,24 @@
+1. zadatak
+./zadatak1.pl
+niz
+5
+
+2. zadatak
+./zadatak2.pl
+3
+4
+4
+5
+Ctrl+D
+
+3.zadatak
+./zadatak3.pl ../TestPrimjeri/localhost_access_log*.txt
+
+4.zadatak
+./zadatak4.pl ../TestPrimjeri/labosi-zakljucano.csv
+
+5.zadatak
+./zadatak5.pl ../TestPrimjeri/rezultati.csv
+
+6.zadatak
+./zadatak6.pl ../TestPrimjeri/notturno.txt 4
